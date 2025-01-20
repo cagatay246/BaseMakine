@@ -1,0 +1,14 @@
+C:\Users\cagat\source\repos\BaseMakine\BaseMakine\bin\Debug\net8.0\BaseMakine.exe
+C:\Users\cagat\source\repos\BaseMakine\BaseMakine\bin\Debug\net8.0\BaseMakine.deps.json
+C:\Users\cagat\source\repos\BaseMakine\BaseMakine\bin\Debug\net8.0\BaseMakine.runtimeconfig.json
+C:\Users\cagat\source\repos\BaseMakine\BaseMakine\bin\Debug\net8.0\BaseMakine.dll
+C:\Users\cagat\source\repos\BaseMakine\BaseMakine\bin\Debug\net8.0\BaseMakine.pdb
+C:\Users\cagat\source\repos\BaseMakine\BaseMakine\obj\Debug\net8.0\BaseMakine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagat\source\repos\BaseMakine\BaseMakine\obj\Debug\net8.0\BaseMakine.AssemblyInfoInputs.cache
+C:\Users\cagat\source\repos\BaseMakine\BaseMakine\obj\Debug\net8.0\BaseMakine.AssemblyInfo.cs
+C:\Users\cagat\source\repos\BaseMakine\BaseMakine\obj\Debug\net8.0\BaseMakine.csproj.CoreCompileInputs.cache
+C:\Users\cagat\source\repos\BaseMakine\BaseMakine\obj\Debug\net8.0\BaseMakine.dll
+C:\Users\cagat\source\repos\BaseMakine\BaseMakine\obj\Debug\net8.0\refint\BaseMakine.dll
+C:\Users\cagat\source\repos\BaseMakine\BaseMakine\obj\Debug\net8.0\BaseMakine.pdb
+C:\Users\cagat\source\repos\BaseMakine\BaseMakine\obj\Debug\net8.0\BaseMakine.genruntimeconfig.cache
+C:\Users\cagat\source\repos\BaseMakine\BaseMakine\obj\Debug\net8.0\ref\BaseMakine.dll

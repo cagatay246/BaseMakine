@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cagat\\source\\repos\\BaseMakine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10A3D79E-B95F-4413-B2E3-79560229B6CC}|BaseMakine\\BaseMakine.csproj|c:\\users\\cagat\\source\\repos\\basemakine\\basemakine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A3D79E-B95F-4413-B2E3-79560229B6CC}|BaseMakine\\BaseMakine.csproj|solutionrelative:basemakine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A3D79E-B95F-4413-B2E3-79560229B6CC}|BaseMakine\\BaseMakine.csproj|c:\\users\\cagat\\source\\repos\\basemakine\\basemakine\\bilgisayar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A3D79E-B95F-4413-B2E3-79560229B6CC}|BaseMakine\\BaseMakine.csproj|solutionrelative:basemakine\\bilgisayar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A3D79E-B95F-4413-B2E3-79560229B6CC}|BaseMakine\\BaseMakine.csproj|c:\\users\\cagat\\source\\repos\\basemakine\\basemakine\\telefon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A3D79E-B95F-4413-B2E3-79560229B6CC}|BaseMakine\\BaseMakine.csproj|solutionrelative:basemakine\\telefon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A3D79E-B95F-4413-B2E3-79560229B6CC}|BaseMakine\\BaseMakine.csproj|c:\\users\\cagat\\source\\repos\\basemakine\\basemakine\\basemakine1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A3D79E-B95F-4413-B2E3-79560229B6CC}|BaseMakine\\BaseMakine.csproj|solutionrelative:basemakine\\basemakine1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bilgisayar.cs",
+              "DocumentMoniker": "C:\\Users\\cagat\\source\\repos\\BaseMakine\\BaseMakine\\Bilgisayar.cs",
+              "RelativeDocumentMoniker": "BaseMakine\\Bilgisayar.cs",
+              "ToolTip": "C:\\Users\\cagat\\source\\repos\\BaseMakine\\BaseMakine\\Bilgisayar.cs*",
+              "RelativeToolTip": "BaseMakine\\Bilgisayar.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:23:09.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Telefon.cs",
+              "DocumentMoniker": "C:\\Users\\cagat\\source\\repos\\BaseMakine\\BaseMakine\\Telefon.cs",
+              "RelativeDocumentMoniker": "BaseMakine\\Telefon.cs",
+              "ToolTip": "C:\\Users\\cagat\\source\\repos\\BaseMakine\\BaseMakine\\Telefon.cs*",
+              "RelativeToolTip": "BaseMakine\\Telefon.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:21:54.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Basemakine1.cs",
+              "DocumentMoniker": "C:\\Users\\cagat\\source\\repos\\BaseMakine\\BaseMakine\\Basemakine1.cs",
+              "RelativeDocumentMoniker": "BaseMakine\\Basemakine1.cs",
+              "ToolTip": "C:\\Users\\cagat\\source\\repos\\BaseMakine\\BaseMakine\\Basemakine1.cs*",
+              "RelativeToolTip": "BaseMakine\\Basemakine1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:20:40.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cagat\\source\\repos\\BaseMakine\\BaseMakine\\Program.cs",
+              "RelativeDocumentMoniker": "BaseMakine\\Program.cs",
+              "ToolTip": "C:\\Users\\cagat\\source\\repos\\BaseMakine\\BaseMakine\\Program.cs*",
+              "RelativeToolTip": "BaseMakine\\Program.cs*",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:16:43.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
